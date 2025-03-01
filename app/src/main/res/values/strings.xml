@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Gosling</string>
-    <string name="accessibility_service_description">Gosling AI Assistant needs accessibility permissions to help you control your device through natural language commands.</string>
+    <string name="service_status">Service Status: %s</string>
     <string name="enable_accessibility">Enable Accessibility Service</string>
-    <string name="service_status">Service Status: %1$s</string>
-    <string name="enter_command">Enter your command…</string>
+    <string name="accessibility_service_description">Gosling is an AI-powered accessibility service that helps you control your phone using natural language commands. It can help you navigate apps, perform actions, and interact with your device.</string>
+    <string name="accessibility_service_summary">Enable AI-powered phone control</string>
+    <string name="enter_command">Enter command</string>
     <string name="submit">Submit</string>
 </resources>
