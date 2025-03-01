@@ -2,6 +2,9 @@
 
 An AI-powered Android accessibility service that can autonomously operate your phone using natural language commands.
 
+![image](https://github.com/user-attachments/assets/40ac484c-db3b-4649-8eb7-23c6bd3fa3e4)
+
+
 ## Overview
 
 Gosling Android is a native Kotlin implementation of the Gosling concept, which allows an AI assistant to operate your Android phone through natural language instructions. The app runs directly on the device and uses Android's Accessibility APIs to interact with other applications.
